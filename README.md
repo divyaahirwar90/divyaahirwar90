@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @divyaahirwar90
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Divya Ahirwar
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning JavaScript 
+- 💞️ I’m looking to collaborate on web development 
+- 📫 How to reach me divyaahirwar2002@gmail.com
 
 <!---
 divyaahirwar90/divyaahirwar90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
